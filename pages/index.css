@@ -1,2 +1,11 @@
 @import url("../vendor/normalize.css");
 @import url("../vendor/fonts.css");
+
+.page {
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: 400;
+}
+
+.title {
+  font-weight: 900;
+}
