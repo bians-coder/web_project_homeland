@@ -1,7 +1,5 @@
 # Tripleten web_project_homeland
 
-https://bians-coder.github.io/web_project_homeland/
-
 # Proyecto del Sprint 5 "Galeria de Arte (De patria a Patria)"
 
 # Descripción del proyecto:
@@ -24,3 +22,5 @@ Es una galería de arte digital que presenta las ciudades natales de algunos emp
   ![tablet](images/diseño_tablet.png)
 * Mobile: 320px
   ![mobile](images/diseño_mobile.png)
+
+https://bians-coder.github.io/web_project_homeland/
