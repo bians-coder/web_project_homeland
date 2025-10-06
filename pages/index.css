@@ -1,14 +1,6 @@
 @import url("../vendor/normalize.css");
 @import url("../vendor/fonts.css");
-
-.page {
-  font-family: "Inter", Arial, sans-serif;
-  font-weight: 400;
-  width: 100%;
-  margin: auto;
-  background-color: #2a2c2f;
-}
-
-.title {
-  font-weight: 900;
-}
+@import url("../blocks/page.css");
+@import url("../blocks/header.css");
+@import url("../blocks/main.css");
+@import url("../blocks/footer.css");
