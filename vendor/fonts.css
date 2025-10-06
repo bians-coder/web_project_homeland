@@ -1,14 +1,13 @@
-/* Fuentes Inter locales (rutas corregidas) */
 @font-face {
   font-family: "Inter";
-  src: url("./web/Inter-Regular.woff2") format("woff2");
+  src: url("./fonts/Inter-Regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Inter";
-  src: url("./web/Inter-Black.woff2") format("woff2");
+  src: url("./fonts/Inter-Black.woff2") format("woff2");
   font-weight: 900;
   font-style: normal;
 }
