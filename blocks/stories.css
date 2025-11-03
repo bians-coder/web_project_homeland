@@ -139,10 +139,6 @@
     gap: 72px;
   }
 
-  .stories__content {
-    /* grid-template-rows: 90px 1fr repeat(2, 50px); por que se quito esto?*/
-  }
-
   .stories__header {
     font-size: 42px;
     line-height: 46px;
