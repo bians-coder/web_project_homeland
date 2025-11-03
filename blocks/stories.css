@@ -10,7 +10,7 @@
   max-width: 984px;
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: 125px repeat(3, 1fr) 50px;
+  /* grid-template-rows: 125px repeat(3, 1fr) 50px; */
   grid-gap: 48px 40px;
 }
 
@@ -34,8 +34,9 @@
 
 .stories__image-item {
   width: 100%;
-  height: max-content;
+  height: 100%;
   box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.5);
+  object-fit: cover;
 }
 
 .stories__image-item:hover {
@@ -139,13 +140,17 @@
   }
 
   .stories__content {
-    grid-template-rows: 90px 1fr repeat(2, 50px);
+    /* grid-template-rows: 90px 1fr repeat(2, 50px); por que se quito esto?*/
   }
 
   .stories__header {
     font-size: 42px;
     line-height: 46px;
     padding-top: 12%;
+  }
+
+  .stories__header_screen_m {
+    padding: 0;
   }
 
   .stories__image {
