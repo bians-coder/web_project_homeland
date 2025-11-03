@@ -29,7 +29,7 @@ Es una galería de arte digital que presenta las ciudades natales de algunos emp
 
   ## Descripción de las tecnicas utilizadas:
 
-  - Grid Layout para las secciones de stories y gallery.
+  - Grid Layout para las secciones de photo y places.
   - Media Queries Avanzadas para los puntos de ruptura en resoluciones intermedias.
   - Gradients degradados a botones.
   - Shadows para dar profundidad a las imagenes.
