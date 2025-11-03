@@ -10,7 +10,7 @@
   max-width: 984px;
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  /* grid-template-rows: 125px repeat(3, 1fr) 50px; */
+
   grid-gap: 48px 40px;
 }
 
@@ -137,10 +137,6 @@
   .stories {
     max-width: 720px;
     gap: 72px;
-  }
-
-  .stories__content {
-    /* grid-template-rows: 90px 1fr repeat(2, 50px); por que se quito esto?*/
   }
 
   .stories__header {
