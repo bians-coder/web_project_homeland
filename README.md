@@ -23,4 +23,17 @@ Es una galería de arte digital que presenta las ciudades natales de algunos emp
 * Mobile: 320px
   ![mobile](images/diseño_mobile.png)
 
+  # Descripción de la segunda parte del proyecto:
+
+  Se muestran fotografias de lugares, donde nuestros colegas han vivido, también algunas historias de sus lugares natales.
+
+  ## Descripción de las tecnicas utilizadas:
+
+  - Grid Layout para las secciones de stories y gallery.
+  - Media Queries Avanzadas para los puntos de ruptura en resoluciones intermedias.
+  - Gradients degradados a botones.
+  - Shadows para dar profundidad a las imagenes.
+  - Efecto Hover Cuando se pasa el cursor en los botones.
+  - Git brach El uso de ramas para cada nueva seccion.
+
 https://bians-coder.github.io/web_project_homeland/
